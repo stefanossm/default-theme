@@ -1,11 +1,11 @@
 /*!
 Theme Name: Default Theme
-Theme URI: stefanossm/default-theme
-GitHub Theme URI: stefanossm/default-theme
+Theme URI: https://agenciamoustache.com.br/
+GitHub Theme URI: https://github.com/stefanossm/default-theme
 Author: Agência Moustache
 Author URI: https://agenciamoustache.com.br
 Description: Tema Padrão
-Version: 1.1.0
+Version: 1.2.0
 Tested up to: 5.4
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
@@ -24,4 +24,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
 .teste{
 	color: red;
+}
+.temo{
+	color: blue;
 }
